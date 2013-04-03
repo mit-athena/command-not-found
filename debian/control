@@ -2,8 +2,8 @@ Source: debathena-command-not-found
 Section: debathena/admin
 Priority: extra
 Maintainer: Debathena Project <debathena@mit.edu>
-Build-Depends: @cdbs@
-Standards-Version: 3.8.3
+Build-Depends: cdbs, debhelper, dh-buildinfo
+Standards-Version: 3.9.3
 
 Package: debathena-command-not-found
 Architecture: all
